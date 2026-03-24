@@ -70,7 +70,7 @@
         "full_width": true,
         "logo_position": "left-center",
         "mobile_header_layout": "center-left",
-        "sticky_header_type": "on-scroll-up",
+        "sticky_header_type": "always",
         "logo_width": 130,
         "logo_width_mobile": 100,
         "show_social_icons": false,
