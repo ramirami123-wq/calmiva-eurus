@@ -764,66 +764,36 @@
     "331e6fca-2947-4a19-89c5-9396be0d666a": {
       "type": "multicolumn",
       "blocks": {
-        "template--21918975852859__331e6fca-2947-4a19-89c5-9396be0d666a-column-1": {
-          "type": "column",
-          "settings": {
-            "icon": "flower",
-            "another_icon": "",
-            "custom_icon": "",
-            "title": "COLUMN",
-            "highlight_type": "underline",
-            "title_link": "",
-            "open_new_window": false,
-            "heading_size": 100,
-            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>"
-          }
-        },
-        "template--21918975852859__331e6fca-2947-4a19-89c5-9396be0d666a-column-2": {
-          "type": "column",
-          "settings": {
-            "icon": "planet",
-            "another_icon": "",
-            "custom_icon": "",
-            "title": "COLUMN",
-            "highlight_type": "underline",
-            "title_link": "",
-            "open_new_window": false,
-            "heading_size": 100,
-            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>"
-          }
-        },
         "template--21918975852859__331e6fca-2947-4a19-89c5-9396be0d666a-column-3": {
           "type": "column",
           "settings": {
-            "icon": "star",
+            "icon": "truck",
             "another_icon": "",
             "custom_icon": "",
-            "title": "COLUMN",
+            "title": "Delivery All Over Lebanon",
             "highlight_type": "underline",
             "title_link": "",
             "open_new_window": false,
             "heading_size": 100,
-            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>"
+            "text": ""
           }
         },
         "template--21918975852859__331e6fca-2947-4a19-89c5-9396be0d666a-column-4": {
           "type": "column",
           "settings": {
-            "icon": "cloud-rain",
+            "icon": "telephone",
             "another_icon": "",
             "custom_icon": "",
-            "title": "COLUMN",
+            "title": "24/7 support",
             "highlight_type": "underline",
             "title_link": "",
             "open_new_window": false,
             "heading_size": 100,
-            "text": "<p>Pair text with an image to focus on a product, collection or blog post. Add details on availability, style, or even provide a review.</p>"
+            "text": ""
           }
         }
       },
       "block_order": [
-        "template--21918975852859__331e6fca-2947-4a19-89c5-9396be0d666a-column-1",
-        "template--21918975852859__331e6fca-2947-4a19-89c5-9396be0d666a-column-2",
         "template--21918975852859__331e6fca-2947-4a19-89c5-9396be0d666a-column-3",
         "template--21918975852859__331e6fca-2947-4a19-89c5-9396be0d666a-column-4"
       ],

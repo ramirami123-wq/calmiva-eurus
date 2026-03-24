@@ -64,41 +64,11 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "footer-2": {
-          "type": "text",
-          "settings": {
-            "open_by_default": false,
-            "heading_text": "About",
-            "subtext": "<p>Share store details, promotions, or brand content with your customers.</p>",
-            "show_social_icons": false,
-            "image_width": 100,
-            "link_image_footer": "",
-            "open_new_window": false
-          }
-        },
         "footer-0": {
           "type": "link_list",
           "settings": {
             "open_by_default": true,
             "heading_menu": "Popular Shop",
-            "menu": "main-menu",
-            "show_social_icons": false
-          }
-        },
-        "footer-1": {
-          "type": "link_list",
-          "settings": {
-            "open_by_default": false,
-            "heading_menu": "Explore",
-            "menu": "main-menu",
-            "show_social_icons": false
-          }
-        },
-        "link_list_i9gHXh": {
-          "type": "link_list",
-          "settings": {
-            "open_by_default": false,
-            "heading_menu": "Information",
             "menu": "main-menu",
             "show_social_icons": false
           }
@@ -112,7 +82,7 @@
             "another_icon_1": "",
             "custom_icon": "",
             "title_1": "Got questions? Call us 24/7",
-            "text_1": "1908474783",
+            "text_1": "70 203 304",
             "text_link_1": "",
             "open_new_window_1": false,
             "enable_text_link_1": true,
@@ -136,10 +106,7 @@
         }
       },
       "block_order": [
-        "footer-2",
         "footer-0",
-        "footer-1",
-        "link_list_i9gHXh",
         "contact_LbERbb"
       ],
       "settings": {
