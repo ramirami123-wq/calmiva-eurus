@@ -86,7 +86,7 @@
         "text_zYmrxL": {
           "type": "text",
           "settings": {
-            "text": "MAKE AN ANNOUNCEMENT",
+            "text": "Calmiva",
             "highlight_type": "underline",
             "text_size": 120,
             "text_color": "primary",
@@ -105,7 +105,7 @@
         "speed": 10,
         "direction": "right",
         "pause_hover": false,
-        "bg_light": "#6b7050",
+        "bg_light": "#2f6fed",
         "color_text_light": "#ffffff",
         "color_text_light_2": "rgba(0,0,0,0)",
         "color_heading_highlight_light": "rgba(0,0,0,0)",
@@ -131,23 +131,10 @@
             "text_size_price": 70
           }
         },
-        "badges_YLkbEH": {
-          "type": "badges",
-          "settings": {}
-        },
         "html_3hXKDG": {
           "type": "html",
           "settings": {
-            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">🔥 Frizz-Free in Minutes</span> – Transform messy, puffy hair into sleek, polished strands fast.<br><br>\n<span style=\"font-weight: bold;\">🌡️ Perfect for Your Hair Type</span> – Enjoy soft, controlled, healthy-looking hair without worrying about damage.<br><br>\n<span style=\"font-weight: bold;\">💫 Silky, Shiny Finish</span> – Get smooth, glossy results that make your hair look freshly styled all day.\n</div>"
-          }
-        },
-        "variant_picker_nNrVKG": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button",
-            "show_variant_option": true,
-            "enable_color_swatches": false,
-            "swatch_size": "small"
+            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">😌 Relax & Refresh Instantly</span> – Soothe tired eyes and unwind after long screen time or a busy day.<br><br>\n<span style=\"font-weight: bold;\">🔴 Advanced Light Therapy</span> – Gentle red light helps support a brighter, more youthful-looking eye area.<br><br>\n<span style=\"font-weight: bold;\">✨ Reduce Puffiness & Dark Circles</span> – Enjoy a smoother, revitalized appearance with regular use.\n</div>"
           }
         },
         "quantity_selector_KBHMhn": {
@@ -187,9 +174,7 @@
       },
       "block_order": [
         "price_Nmh7cm",
-        "badges_YLkbEH",
         "html_3hXKDG",
-        "variant_picker_nNrVKG",
         "quantity_selector_KBHMhn",
         "buy_buttons_K7tDVe"
       ],
@@ -231,72 +216,13 @@
     "scrolling_banner_6fW3xL": {
       "type": "scrolling-banner",
       "blocks": {
-        "text_QrL7N4": {
-          "type": "text",
-          "settings": {
-            "text": "Talk about your brand",
-            "highlight_type": "underline",
-            "text_size": 100,
-            "text_color": "primary",
-            "spacing_left": 0,
-            "spacing_right": 0,
-            "spacing_left_mobile": 0,
-            "spacing_right_mobile": 0
-          }
-        },
-        "icon_7jz4tQ": {
-          "type": "icon",
-          "settings": {
-            "icon": "zap",
-            "another_icon": "",
-            "custom_icon": "",
-            "height_icon": 35,
-            "spacing_left": 0,
-            "spacing_right": 0,
-            "spacing_left_mobile": 0,
-            "spacing_right_mobile": 0
-          }
-        },
         "text_ARBErC": {
           "type": "text",
           "settings": {
-            "text": "Talk about your brand",
+            "text": "Free Delivery",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
-            "spacing_left": 0,
-            "spacing_right": 0,
-            "spacing_left_mobile": 0,
-            "spacing_right_mobile": 0
-          }
-        },
-        "button_pwxfNY": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "open_new_window": false,
-            "show_button_style": "primary",
-            "color_button": "rgba(0,0,0,0)",
-            "color_button_hover": "rgba(0,0,0,0)",
-            "color_text_button": "rgba(0,0,0,0)",
-            "color_text_button_hover": "rgba(0,0,0,0)",
-            "color_button_secondary": "rgba(0,0,0,0)",
-            "secondary_button_text": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)",
-            "spacing_left": 0,
-            "spacing_right": 0,
-            "spacing_left_mobile": 0,
-            "spacing_right_mobile": 0
-          }
-        },
-        "icon_66pFUc": {
-          "type": "icon",
-          "settings": {
-            "icon": "zap",
-            "another_icon": "",
-            "custom_icon": "",
-            "height_icon": 35,
             "spacing_left": 0,
             "spacing_right": 0,
             "spacing_left_mobile": 0,
@@ -305,11 +231,7 @@
         }
       },
       "block_order": [
-        "text_QrL7N4",
-        "icon_7jz4tQ",
-        "text_ARBErC",
-        "button_pwxfNY",
-        "icon_66pFUc"
+        "text_ARBErC"
       ],
       "name": "t:sections.scrolling_promotion.presets.name",
       "settings": {
@@ -317,8 +239,8 @@
         "speed": 20,
         "direction": "right",
         "pause_hover": true,
-        "bg_light": "rgba(0,0,0,0)",
-        "color_text_light": "rgba(0,0,0,0)",
+        "bg_light": "#2f6fed",
+        "color_text_light": "#ffffff",
         "color_text_light_2": "rgba(0,0,0,0)",
         "color_heading_highlight_light": "rgba(0,0,0,0)",
         "bg_dark": "rgba(0,0,0,0)",
@@ -339,7 +261,7 @@
         "heading_FKqVLq": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "About Us",
             "highlight_type": "underline",
             "heading_size": 100,
             "heading_tag": "h2"
@@ -348,7 +270,7 @@
         "text_DYie9T": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "text": "<p>At our store, we believe that self-care should be simple, effective, and accessible to everyone. That’s why we’re dedicated to offering innovative beauty and wellness products designed to fit seamlessly into your daily routine.</p><p>Our featured eye care device combines modern technology with comfort, helping you relax, refresh, and take better care of your skin—all from the comfort of your home. Whether you’re looking to unwind after a long day or enhance your skincare routine, our products are made to support your well-being.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less"
@@ -386,69 +308,10 @@
         "text_Xn6gjA": {
           "type": "text",
           "settings": {
-            "text": "Talk about your brand",
+            "text": "enjoy your self-care moments every day",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
-            "spacing_left": 0,
-            "spacing_right": 0,
-            "spacing_left_mobile": 0,
-            "spacing_right_mobile": 0
-          }
-        },
-        "icon_AA4DGT": {
-          "type": "icon",
-          "settings": {
-            "icon": "zap",
-            "another_icon": "",
-            "custom_icon": "",
-            "height_icon": 35,
-            "spacing_left": 0,
-            "spacing_right": 0,
-            "spacing_left_mobile": 0,
-            "spacing_right_mobile": 0
-          }
-        },
-        "text_bXUYVi": {
-          "type": "text",
-          "settings": {
-            "text": "Talk about your brand",
-            "highlight_type": "underline",
-            "text_size": 100,
-            "text_color": "primary",
-            "spacing_left": 0,
-            "spacing_right": 0,
-            "spacing_left_mobile": 0,
-            "spacing_right_mobile": 0
-          }
-        },
-        "button_YFpzqc": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "open_new_window": false,
-            "show_button_style": "primary",
-            "color_button": "rgba(0,0,0,0)",
-            "color_button_hover": "rgba(0,0,0,0)",
-            "color_text_button": "rgba(0,0,0,0)",
-            "color_text_button_hover": "rgba(0,0,0,0)",
-            "color_button_secondary": "rgba(0,0,0,0)",
-            "secondary_button_text": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)",
-            "spacing_left": 0,
-            "spacing_right": 0,
-            "spacing_left_mobile": 0,
-            "spacing_right_mobile": 0
-          }
-        },
-        "icon_3xGnAq": {
-          "type": "icon",
-          "settings": {
-            "icon": "zap",
-            "another_icon": "",
-            "custom_icon": "",
-            "height_icon": 35,
             "spacing_left": 0,
             "spacing_right": 0,
             "spacing_left_mobile": 0,
@@ -457,11 +320,7 @@
         }
       },
       "block_order": [
-        "text_Xn6gjA",
-        "icon_AA4DGT",
-        "text_bXUYVi",
-        "button_YFpzqc",
-        "icon_3xGnAq"
+        "text_Xn6gjA"
       ],
       "name": "t:sections.scrolling_promotion.presets.name",
       "settings": {
@@ -469,8 +328,8 @@
         "speed": 20,
         "direction": "right",
         "pause_hover": true,
-        "bg_light": "rgba(0,0,0,0)",
-        "color_text_light": "rgba(0,0,0,0)",
+        "bg_light": "#2f6fed",
+        "color_text_light": "#ffffff",
         "color_text_light_2": "rgba(0,0,0,0)",
         "color_heading_highlight_light": "rgba(0,0,0,0)",
         "bg_dark": "rgba(0,0,0,0)",
@@ -494,8 +353,8 @@
             "icon": "heart",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "What does this eye device do?",
+            "row_content": "<p><br/>Our eye care device is designed to help relax the eye area, reduce the appearance of puffiness, and support a refreshed, well-rested look using gentle light and soothing technology.<br/><br/></p>"
           }
         },
         "frequently_asked_question_kjDnG9": {
@@ -504,8 +363,8 @@
             "icon": "heart",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "Is it safe to use daily?",
+            "row_content": "<p>Yes, the device is designed for regular use. However, we recommend following the usage guidelines and consulting a professional if you have any medical concerns.<br/><br/></p>"
           }
         },
         "frequently_asked_question_4dJVT3": {
@@ -514,26 +373,15 @@
             "icon": "heart",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
-          }
-        },
-        "frequently_asked_question_4YfWxL": {
-          "type": "frequently_asked_question",
-          "settings": {
-            "icon": "heart",
-            "another_icon": "",
-            "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "How long does it take to see results?",
+            "row_content": "<p>Results may vary, but many users notice a more relaxed and refreshed feeling immediately, with visible improvements over consistent use.</p>"
           }
         }
       },
       "block_order": [
         "frequently_asked_question_cCBAj6",
         "frequently_asked_question_kjDnG9",
-        "frequently_asked_question_4dJVT3",
-        "frequently_asked_question_4YfWxL"
+        "frequently_asked_question_4dJVT3"
       ],
       "name": "t:sections.question_and_answer.presets.name",
       "settings": {
@@ -565,6 +413,86 @@
         "padding_top_mobile": 28,
         "padding_bottom_mobile": 28
       }
+    },
+    "multicolumn_bbt7xk": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_6RTcNP": {
+          "type": "column",
+          "settings": {
+            "icon": "truck",
+            "another_icon": "",
+            "custom_icon": "",
+            "title": "DELIVERY ALL OVER LEBANON",
+            "highlight_type": "underline",
+            "title_link": "",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": ""
+          }
+        },
+        "column_BgiaHn": {
+          "type": "column",
+          "settings": {
+            "icon": "telephone",
+            "another_icon": "",
+            "custom_icon": "",
+            "title": "24/7 Support",
+            "highlight_type": "underline",
+            "title_link": "",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_6RTcNP",
+        "column_BgiaHn"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "secondary_background": "none",
+        "border_column": "column",
+        "column_content_alignment": "center",
+        "icon_position": "above",
+        "icon_size": 45,
+        "enable_desktop_slider": true,
+        "swiper_on_mobile": false,
+        "auto_play": true,
+        "change_bar_every": 5,
+        "background_color_light": "rgba(0,0,0,0)",
+        "heading_light": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "color_heading_highlight_light": "rgba(0,0,0,0)",
+        "line_border_light": "rgba(0,0,0,0)",
+        "color_icon_light": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "heading_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "color_heading_highlight_dark": "rgba(0,0,0,0)",
+        "line_border_dark": "rgba(0,0,0,0)",
+        "color_icon_dark": "rgba(0,0,0,0)",
+        "column_layout_desktop": "lg:w-1/4",
+        "section_height_desktop": "md:py-7",
+        "spacing_desktop": 28,
+        "full_width": false,
+        "padding_full_width": false,
+        "show_section_divider": false,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "column_layout_mobile": "w-full",
+        "section_height_mobile": "py-5",
+        "spacing_mobile": 16,
+        "full_width_mobile": false,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 20,
+        "padding_bottom_mobile": 20
+      }
     }
   },
   "order": [
@@ -574,6 +502,7 @@
     "scrolling_banner_6fW3xL",
     "rich_text_iRYjAW",
     "scrolling_banner_9fE7Y9",
-    "faq_McEVrE"
+    "faq_McEVrE",
+    "multicolumn_bbt7xk"
   ]
 }
