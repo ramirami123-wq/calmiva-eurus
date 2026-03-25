@@ -70,7 +70,7 @@
         "full_width": true,
         "logo_position": "left-center",
         "mobile_header_layout": "center-left",
-        "sticky_header_type": "always",
+        "sticky_header_type": "none",
         "logo": "shopify://shop_images/1773940322_WhatsApp_Image_2026-03-12_at_10.50.59-removebg-preview_edf94836-eaf4-4b1f-afd1-6b7a76e61a08.png",
         "logo_width": 100,
         "logo_width_mobile": 100,
