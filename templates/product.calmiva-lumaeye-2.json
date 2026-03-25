@@ -356,8 +356,8 @@
         "bottom_padding": 0,
         "image_alignment_mobile": "left",
         "full_width_mobile": false,
-        "top_padding_mobile": 0,
-        "bottom_padding_mobile": 0
+        "top_padding_mobile": 36,
+        "bottom_padding_mobile": 36
       }
     },
     "scrolling_banner_cXMWJF": {
@@ -468,8 +468,8 @@
         "bottom_padding": 0,
         "image_alignment_mobile": "left",
         "full_width_mobile": false,
-        "top_padding_mobile": 0,
-        "bottom_padding_mobile": 0
+        "top_padding_mobile": 36,
+        "bottom_padding_mobile": 36
       }
     },
     "faq_byLxM7": {
@@ -554,7 +554,7 @@
         "show_border": false,
         "row_background": false,
         "collapsible": true,
-        "show_view_all": true,
+        "show_view_all": false,
         "view_all_position": "top",
         "button_link": "",
         "open_new_window": false,
