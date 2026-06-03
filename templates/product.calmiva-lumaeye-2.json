@@ -60,7 +60,7 @@
           "type": "buy_buttons",
           "settings": {
             "show_button_style": "primary",
-            "show_dynamic_checkout": false,
+            "show_dynamic_checkout": true,
             "show_gift_card_recipient": true,
             "pickup_availability": false,
             "hide_when_pre_order": false,
